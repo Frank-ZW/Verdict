@@ -1,0 +1,8 @@
+name: ${project.name}
+version: ${project.version}
+main: me.frankthedev.verdict.Verdict
+api-version: 1.13
+author: Frank
+commands:
+  verdict:
+    description: The Verdict Anticheat head-command.
